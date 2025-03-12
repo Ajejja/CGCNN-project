@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_BaTl4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.41063150
+_cell_length_b   6.89292163
+_cell_length_c   10.00696139
+_cell_angle_alpha   75.14473320
+_cell_angle_beta   74.31530226
+_cell_angle_gamma   66.89126824
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaTl4
+_chemical_formula_sum   'Ba2 Tl8'
+_cell_volume   325.68906971
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.17927571  0.35178698  0.28966259  1
+  Ba  Ba1  1  0.82072429  0.64821302  0.71033741  1
+  Tl  Tl2  1  0.40465941  0.74243328  0.44824891  1
+  Tl  Tl3  1  0.59534059  0.25756672  0.55175109  1
+  Tl  Tl4  1  0.15441199  0.73075149  0.96042354  1
+  Tl  Tl5  1  0.84558801  0.26924851  0.03957646  1
+  Tl  Tl6  1  0.12799352  0.06374333  0.68026964  1
+  Tl  Tl7  1  0.87200648  0.93625667  0.31973036  1
+  Tl  Tl8  1  0.54999120  0.78591494  0.11410565  1
+  Tl  Tl9  1  0.45000880  0.21408506  0.88589435  1

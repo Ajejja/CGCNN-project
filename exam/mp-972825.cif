@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_SiH8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.48967269
+_cell_length_b   5.48967269
+_cell_length_c   5.48967269
+_cell_angle_alpha   118.90247618
+_cell_angle_beta   118.90247618
+_cell_angle_gamma   91.91171690
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SiH8
+_chemical_formula_sum   'Si1 H8'
+_cell_volume   118.85249405
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  -0.00000000  -0.00000000  0.00000000  1
+  H  H1  1  0.45136301  0.45136301  0.00000000  1
+  H  H2  1  0.54863599  0.54863599  -0.00000000  1
+  H  H3  1  0.70126840  0.20126640  0.50000200  1
+  H  H4  1  0.79873560  0.29873360  0.50000200  1
+  H  H5  1  0.11217967  0.32881753  0.21663786  1
+  H  H6  1  0.11217967  0.89554381  0.78336414  1
+  H  H7  1  0.67118247  0.88782233  0.78336414  1
+  H  H8  1  0.10445819  0.88782233  0.21663986  1

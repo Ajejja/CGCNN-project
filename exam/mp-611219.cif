@@ -1,0 +1,27 @@
+# generated using pymatgen
+data_Hg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.38348738
+_cell_length_b   3.39434774
+_cell_length_c   8.84490673
+_cell_angle_alpha   78.51488184
+_cell_angle_beta   79.04178070
+_cell_angle_gamma   60.13723528
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hg
+_chemical_formula_sum   Hg1
+_cell_volume   85.83374044
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  0.00012200  0.98451900  0.00032700  1

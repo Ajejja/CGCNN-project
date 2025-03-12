@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Nb3Au2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.41561894
+_cell_length_b   3.41560074
+_cell_length_c   8.03129257
+_cell_angle_alpha   102.25466316
+_cell_angle_beta   102.25499396
+_cell_angle_gamma   90.00121719
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nb3Au2
+_chemical_formula_sum   'Nb3 Au2'
+_cell_volume   89.37504507
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.00000157  0.00000625  0.00001339  1
+  Nb  Nb1  1  0.39920292  0.39918909  0.79856145  1
+  Nb  Nb2  1  0.60079398  0.60081215  0.20145224  1
+  Au  Au3  1  0.19977140  0.19977106  0.39961815  1
+  Au  Au4  1  0.80023013  0.80022245  0.60035477  1

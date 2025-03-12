@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_ReGe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.21057003
+_cell_length_b   4.80208229
+_cell_length_c   6.92083096
+_cell_angle_alpha   77.53959073
+_cell_angle_beta   76.58810676
+_cell_angle_gamma   70.47066350
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ReGe2
+_chemical_formula_sum   'Re2 Ge4'
+_cell_volume   96.70202263
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Re  Re0  1  0.84945895  0.11085332  0.19022978  1
+  Re  Re1  1  0.15054105  0.88914668  0.80977022  1
+  Ge  Ge2  1  0.85039153  0.75899075  0.54022719  1
+  Ge  Ge3  1  0.14960847  0.24100925  0.45977281  1
+  Ge  Ge4  1  0.59974487  0.68847936  0.11203091  1
+  Ge  Ge5  1  0.40025513  0.31152064  0.88796909  1

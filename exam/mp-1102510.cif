@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ho5S7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.77660194
+_cell_length_b   6.64182906
+_cell_length_c   11.53101192
+_cell_angle_alpha   104.00357395
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   106.51728076
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho5S7
+_chemical_formula_sum   'Ho5 S7'
+_cell_volume   268.32485033
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  -0.00000000  -0.00000000  -0.00000000  1
+  Ho  Ho1  1  0.11163905  0.22327810  0.42144753  1
+  Ho  Ho2  1  0.88836095  0.77672190  0.57855247  1
+  Ho  Ho3  1  0.30027615  0.60055430  0.18778157  1
+  Ho  Ho4  1  0.69972385  0.39944570  0.81221843  1
+  S  S5  1  0.50000000  -0.00000000  0.50000000  1
+  S  S6  1  0.65893058  0.31786017  0.05114238  1
+  S  S7  1  0.34106942  0.68213983  0.94885762  1
+  S  S8  1  0.95887839  0.91775778  0.21499079  1
+  S  S9  1  0.04112161  0.08224222  0.78500921  1
+  S  S10  1  0.25913141  0.51826082  0.64722989  1
+  S  S11  1  0.74086859  0.48174018  0.35277011  1

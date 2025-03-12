@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Be12Mo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.20334580
+_cell_length_b   5.51841255
+_cell_length_c   5.51841541
+_cell_angle_alpha   81.67059656
+_cell_angle_beta   67.60452422
+_cell_angle_gamma   67.60454740
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Be12Mo
+_chemical_formula_sum   'Be12 Mo1'
+_cell_volume   109.42311317
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Be  Be0  1  0.50000000  0.00000000  0.50000000  1
+  Be  Be1  1  -0.00000000  0.50000000  -0.00000000  1
+  Be  Be2  1  0.50000000  0.50000000  -0.00000000  1
+  Be  Be3  1  -0.00000000  0.00000000  0.50000000  1
+  Be  Be4  1  0.34850653  0.64955416  0.64955416  1
+  Be  Be5  1  1.00000000  0.35014725  0.64985275  1
+  Be  Be6  1  0.00000000  0.64985275  0.35014725  1
+  Be  Be7  1  0.65149347  0.35044584  0.35044584  1
+  Be  Be8  1  0.28870439  0.21188145  0.21188145  1
+  Be  Be9  1  0.50000000  0.79013613  0.20986387  1
+  Be  Be10  1  0.50000000  0.20986387  0.79013613  1
+  Be  Be11  1  0.71129561  0.78811855  0.78811855  1
+  Mo  Mo12  1  -0.00000000  0.00000000  -0.00000000  1

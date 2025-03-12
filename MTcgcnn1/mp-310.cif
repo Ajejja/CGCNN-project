@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_NpCo2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.03284938
+_cell_length_b   5.03340723
+_cell_length_c   5.03338873
+_cell_angle_alpha   59.97695682
+_cell_angle_beta   60.00317654
+_cell_angle_gamma   59.97615281
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NpCo2
+_chemical_formula_sum   'Np2 Co4'
+_cell_volume   90.13177020
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Np  Np0  1  0.87536152  0.87467091  0.87531097  1
+  Np  Np1  1  0.12540222  0.12465503  0.12527491  1
+  Co  Co2  1  0.49999276  0.49999625  0.49962674  1
+  Co  Co3  1  0.50001283  0.50035748  -0.00033958  1
+  Co  Co4  1  -0.00039087  0.49994877  0.50005911  1
+  Co  Co5  1  0.49962054  0.00037157  0.50006484  1

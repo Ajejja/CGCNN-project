@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Ta11O2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.48816300
+_cell_length_b   7.53281282
+_cell_length_c   9.32062869
+_cell_angle_alpha   110.03193937
+_cell_angle_beta   107.19944702
+_cell_angle_gamma   101.88424003
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta11O2
+_chemical_formula_sum   'Ta22 O4'
+_cell_volume   443.34571652
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.97437400  0.32884300  0.64833500  1
+  Ta  Ta1  1  0.60051600  0.79133900  0.42180800  1
+  Ta  Ta2  1  0.73293300  0.59504100  0.60486100  1
+  Ta  Ta3  1  0.22215600  0.09391800  0.10879300  1
+  Ta  Ta4  1  0.15847200  0.17340200  0.27724400  1
+  Ta  Ta5  1  0.68102300  0.69774400  0.76039900  1
+  Ta  Ta6  1  0.49196800  0.85377500  0.10167000  1
+  Ta  Ta7  1  0.06015900  0.26303600  0.44392800  1
+  Ta  Ta8  1  0.24846600  0.14049800  0.60063700  1
+  Ta  Ta9  1  0.40488100  0.92543700  0.27785100  1
+  Ta  Ta10  1  0.81627400  0.51611900  0.91797800  1
+  Ta  Ta11  1  0.72896700  0.53813700  0.11632800  1
+  Ta  Ta12  1  0.91483100  0.43056900  0.26578500  1
+  Ta  Ta13  1  0.08767800  0.31073600  0.94665700  1
+  Ta  Ta14  1  0.32594900  0.02265600  0.94082900  1
+  Ta  Ta15  1  0.46334700  0.82966400  0.61213700  1
+  Ta  Ta16  1  0.53955100  0.72521400  0.95596900  1
+  Ta  Ta17  1  0.39722600  0.92715900  0.77781600  1
+  Ta  Ta18  1  0.29216900  0.99132200  0.45899000  1
+  Ta  Ta19  1  0.14873800  0.18233900  0.78147400  1
+  Ta  Ta20  1  0.65292200  0.67004700  0.27094200  1
+  Ta  Ta21  1  0.81341300  0.52522800  0.42565300  1
+  O  O22  1  0.90580200  0.93374700  0.02280100  1
+  O  O23  1  0.05713500  0.72868900  0.69446000  1
+  O  O24  1  0.90261000  0.41907600  0.03428500  1
+  O  O25  1  0.90742800  0.42267800  0.53169600  1

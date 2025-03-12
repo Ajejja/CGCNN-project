@@ -1,0 +1,53 @@
+# generated using pymatgen
+data_Ca13Al14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.15599789
+_cell_length_b   9.15599789
+_cell_length_c   9.69125428
+_cell_angle_alpha   74.67668966
+_cell_angle_beta   74.67668966
+_cell_angle_gamma   64.87478466
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca13Al14
+_chemical_formula_sum   'Ca13 Al14'
+_cell_volume   698.57982551
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.94385204  0.34910263  0.63371428  1
+  Ca  Ca1  1  0.34910263  0.94385204  0.63371428  1
+  Ca  Ca2  1  0.05614796  0.65089737  0.36628572  1
+  Ca  Ca3  1  0.65089737  0.05614796  0.36628572  1
+  Ca  Ca4  1  0.08049968  0.64392168  0.77307074  1
+  Ca  Ca5  1  0.64392168  0.08049968  0.77307074  1
+  Ca  Ca6  1  0.91950032  0.35607832  0.22692926  1
+  Ca  Ca7  1  0.35607832  0.91950032  0.22692926  1
+  Ca  Ca8  1  0.19564893  0.19564893  0.91608296  1
+  Ca  Ca9  1  0.80435107  0.80435107  0.08391704  1
+  Ca  Ca10  1  0.50364464  0.50364464  0.79723909  1
+  Ca  Ca11  1  0.49635536  0.49635536  0.20276091  1
+  Ca  Ca12  1  0.00000000  -0.00000000  0.50000000  1
+  Al  Al13  1  0.79229856  0.52374448  0.91658251  1
+  Al  Al14  1  0.52374448  0.79229856  0.91658251  1
+  Al  Al15  1  0.20770144  0.47625552  0.08341749  1
+  Al  Al16  1  0.47625552  0.20770144  0.08341749  1
+  Al  Al17  1  0.00192030  0.00192030  0.84360420  1
+  Al  Al18  1  0.99807970  0.99807970  0.15639580  1
+  Al  Al19  1  0.25982996  0.25982996  0.34275339  1
+  Al  Al20  1  0.74017004  0.74017004  0.65724661  1
+  Al  Al21  1  0.34065028  0.34065028  0.56737012  1
+  Al  Al22  1  0.65934972  0.65934972  0.43262988  1
+  Al  Al23  1  0.64453889  0.35546111  0.50000000  1
+  Al  Al24  1  0.35546111  0.64453889  0.50000000  1
+  Al  Al25  1  0.77481174  0.22518826  0.00000000  1
+  Al  Al26  1  0.22518826  0.77481174  0.00000000  1

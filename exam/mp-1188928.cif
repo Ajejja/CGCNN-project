@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_In9Cu11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.34238104
+_cell_length_b   7.29048713
+_cell_length_c   10.51477241
+_cell_angle_alpha   89.25628106
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   In9Cu11
+_chemical_formula_sum   'In9 Cu11'
+_cell_volume   332.84939081
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.00000000  0.69479472  0.85908587  1
+  In  In1  1  0.00000000  0.30520528  0.14091413  1
+  In  In2  1  0.50000000  0.19543304  0.34100876  1
+  In  In3  1  0.50000000  0.80456696  0.65899124  1
+  In  In4  1  0.00000000  0.38920415  0.62635259  1
+  In  In5  1  -0.00000000  0.61079585  0.37364741  1
+  In  In6  1  0.50000000  0.86251845  0.11397354  1
+  In  In7  1  0.50000000  0.13748155  0.88602646  1
+  In  In8  1  0.00000000  -0.00000000  0.50000000  1
+  Cu  Cu9  1  0.00000000  -0.00000000  -0.00000000  1
+  Cu  Cu10  1  0.50000000  0.50000000  0.50000000  1
+  Cu  Cu11  1  0.00000000  0.03105200  0.74833131  1
+  Cu  Cu12  1  0.00000000  0.96894800  0.25166869  1
+  Cu  Cu13  1  0.50000000  0.52520092  0.23584567  1
+  Cu  Cu14  1  0.50000000  0.47479908  0.76415433  1
+  Cu  Cu15  1  -0.00000000  0.34152075  0.88689765  1
+  Cu  Cu16  1  0.00000000  0.65847925  0.11310235  1
+  Cu  Cu17  1  0.50000000  0.82637192  0.38074632  1
+  Cu  Cu18  1  0.50000000  0.17362808  0.61925368  1
+  Cu  Cu19  1  0.50000000  0.50000000  -0.00000000  1

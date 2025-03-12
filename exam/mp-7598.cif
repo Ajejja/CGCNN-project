@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_NbAs2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.42486658
+_cell_length_b   4.99814641
+_cell_length_c   7.09975190
+_cell_angle_alpha   78.90553486
+_cell_angle_beta   76.04284473
+_cell_angle_gamma   69.96379473
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbAs2
+_chemical_formula_sum   'Nb2 As4'
+_cell_volume   110.00053430
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.15727781  0.88213074  0.80331464  1
+  Nb  Nb1  1  0.84272219  0.11786926  0.19668536  1
+  As  As2  1  0.85938203  0.75257323  0.52866371  1
+  As  As3  1  0.14061797  0.24742677  0.47133629  1
+  As  As4  1  0.59492058  0.70483393  0.10532691  1
+  As  As5  1  0.40507942  0.29516607  0.89467309  1

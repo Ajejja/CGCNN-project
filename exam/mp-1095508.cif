@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Er5S7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.75319644
+_cell_length_b   6.60525610
+_cell_length_c   11.48651770
+_cell_angle_alpha   103.95180706
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   106.50545618
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er5S7
+_chemical_formula_sum   'Er5 S7'
+_cell_volume   264.25250655
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  -0.00000000  -0.00000000  -0.00000000  1
+  Er  Er1  1  0.11141986  0.22283873  0.42147574  1
+  Er  Er2  1  0.88858014  0.77716127  0.57852426  1
+  Er  Er3  1  0.30010531  0.60021261  0.18754774  1
+  Er  Er4  1  0.69989469  0.39978739  0.81245226  1
+  S  S5  1  0.50000000  -0.00000000  0.50000000  1
+  S  S6  1  0.65887018  0.31773936  0.05133497  1
+  S  S7  1  0.34113082  0.68226064  0.94866503  1
+  S  S8  1  0.95879636  0.91759172  0.21478022  1
+  S  S9  1  0.04120364  0.08240828  0.78521978  1
+  S  S10  1  0.25895665  0.51791530  0.64703879  1
+  S  S11  1  0.74104335  0.48208470  0.35296121  1

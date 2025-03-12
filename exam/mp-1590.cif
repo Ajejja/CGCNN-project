@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Be12Cr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.12515601
+_cell_length_b   5.51402726
+_cell_length_c   5.51433414
+_cell_angle_alpha   82.00282791
+_cell_angle_beta   68.10872153
+_cell_angle_gamma   68.10967750
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Be12Cr
+_chemical_formula_sum   'Be12 Cr1'
+_cell_volume   107.99436312
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Be  Be0  1  0.71388200  0.78653113  0.78652864  1
+  Be  Be1  1  0.50000000  -0.00000000  0.50000000  1
+  Be  Be2  1  -0.00000000  0.50000000  0.00000000  1
+  Be  Be3  1  0.50000000  0.50000000  0.00000000  1
+  Be  Be4  1  -0.00000000  -0.00000000  0.50000000  1
+  Be  Be5  1  0.34745455  0.65045348  0.65046360  1
+  Be  Be6  1  -0.00001355  0.34920335  0.65093564  1
+  Be  Be7  1  0.00001355  0.65079665  0.34906436  1
+  Be  Be8  1  0.65254545  0.34954652  0.34953640  1
+  Be  Be9  1  0.28611800  0.21346887  0.21347136  1
+  Be  Be10  1  0.49999451  0.78742780  0.21257684  1
+  Be  Be11  1  0.50000549  0.21257220  0.78742316  1
+  Cr  Cr12  1  -0.00000000  -0.00000000  0.00000000  1
