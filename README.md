@@ -1,0 +1,2 @@
+#App Overview
+##In this project, I developed a web application that simplifies the process of predicting material properties using the CGCNN model. The app is designed to allow users to upload their datasets and intuitively perform model training and prediction. Additionally, I have included a folder named 'MTcgcnn1' in the repository as an example to demonstrate how the dataset should be formatted for those unfamiliar with CGCNN. This makes it accessible for users without programming knowledge to engage in materials design using machine learning.
