@@ -31,6 +31,20 @@ This web application is built using Streamlit and offers the following main feat
   
 <img width="459" alt="Image" src="https://github.com/user-attachments/assets/229bbdb4-5fdb-4922-8ae6-005565b8a404" />
 
+
+## Example of Band Gap Prediction
+
+The following table shows an example of band gap prediction results, illustrating both the actual and predicted values for various materials:
+
+| Material ID | Material Formula | Actual Band Gap (eV) | Predicted Band Gap (eV) |
+|-------------|------------------|----------------------|-------------------------|
+| mp-1183066  | Ac2ZnAu          | 0.00325              | 0                       |
+| mp-1183105  | Ac3Ce            | 0.043                | 0                       |
+| mp-1183126  | Ac3Pa            | 0.093                | 0                       |
+| mp-7        | S                | 2.19                 | 2.17                    |
+| mp-2        | Pd               | 0.01                 | 0                       |
+
+
 ## Technologies and Tools
 
 This project leverages a variety of technologies and tools to ensure efficient and effective material property predictions using machine learning:
