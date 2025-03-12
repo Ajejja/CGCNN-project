@@ -44,6 +44,28 @@ The following table shows an example of band gap prediction results, illustratin
 | mp-7        | S                | 2.19                 | 2.17                    |
 | mp-2        | Pd               | 0.01                 | 0                       |
 
+## Example of Formation Energy Prediction
+
+The table below shows the predicted formation energies for selected materials.
+
+| Material ID | Material Formula | Actual Formation Energy (eV) | Predicted Formation Energy (eV) |
+|-------------|------------------|------------------------------|---------------------------------|
+| mp-1183063  | Ac2CdGe          | 0.035                        | -0.465                          |
+| mp-862319   | Ac2CdSn          | -0.9                         | -0.543                          |
+| mp-861724   | Ac2AgIr          | -0.245                       | -0.413                          |
+
+
+## Example of Energy Above Hull Prediction
+
+This table illustrates the predicted stability of materials relative to the lowest possible energy configuration (the hull). A lower energy above hull indicates a more stable and likely formable material.
+
+| Material ID | Material Formula | Actual Energy Above Hull (eV) | Predicted Energy Above Hull (eV) |
+|-------------|------------------|-------------------------------|----------------------------------|
+| mp-1183063  | Ac2CdGe          | 0.007                         | 0                                |
+| mp-862319   | Ac2CdSn          | -0.003                        | 0                                |
+| mp-861724   | Ac2AgIr          | -0.2                          | 0                                |
+
+
 
 ## Technologies and Tools
 
