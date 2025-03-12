@@ -15,6 +15,7 @@ This web application is built using Streamlit and offers the following main feat
 - **Data Upload Function**: Allows easy uploading of CIF files or CSV data.
   
 - **Model Training**: Users can specify datasets and set arbitrary parameters (such as the number of epochs and learning rate) to execute training.
+- 
   <img width="600" alt="Image" src="https://github.com/user-attachments/assets/7aca24ca-94a6-4c60-abab-4dbc47898214" />
 
 - **Display of Training Results**: Users can view the results of the training process within the application.
@@ -27,6 +28,7 @@ This web application is built using Streamlit and offers the following main feat
   Additionally, the prediction results table includes a **"Check Material"** link for each material. Clicking this link redirects users to the official **Materials Project** website, where they can verify actual material data and property values. 
 
   This feature allows users to easily compare and validate the model's prediction accuracy.
+  
 <img width="459" alt="Image" src="https://github.com/user-attachments/assets/229bbdb4-5fdb-4922-8ae6-005565b8a404" />
 
 ## Technologies and Tools
