@@ -18,6 +18,8 @@ This web application is built using Streamlit and offers the following main feat
   <img width="600" alt="Image" src="https://github.com/user-attachments/assets/7aca24ca-94a6-4c60-abab-4dbc47898214" />
 
 - **Display of Training Results**: Users can view the results of the training process within the application.
+  The user interface tracks changes in MAE (Mean Absolute Error) during the model training process and analyzes the trends. It records the progression of MAE at each epoch and visualizes the changes in prediction accuracy as training progresses.
+
   <img width="459" alt="Image" src="https://github.com/user-attachments/assets/95e1be96-ebd0-4079-af0e-0daa3f269dee" />
 
 - **Prediction Function**: Uses the trained model to predict the properties of new materials and outputs the results as a downloadable CSV file. 
