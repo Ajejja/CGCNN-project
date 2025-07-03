@@ -1,41 +1,37 @@
-# App Overview
+# アプリ概要
 
-## Project Description
-In this project, I developed a web application that simplifies the process of predicting material properties using the CGCNN model. The app is designed to allow users to upload their datasets and intuitively perform model training and prediction. Additionally, I have included a folder named 'MTcgcnn1' in the repository as an example to demonstrate how the dataset should be formatted for those unfamiliar with CGCNN. This makes it accessible for users without programming knowledge to engage in materials design using machine learning.
+## プロジェクト説明
+このプロジェクトでは、CGCNNモデルを用いた材料特性予測を簡単に行えるWebアプリケーションを開発しました。ユーザーは自身のデータセットをアップロードし、直感的な操作でモデルの学習と予測を行うことができます。さらに、CGCNNに不慣れな方のために、リポジトリ内に「MTcgcnn1」というフォルダを例として含めており、データセットのフォーマット方法を示しています。これにより、プログラミングの知識がない方でも機械学習を用いた材料設計に参加できるようにしています。
 
 ![Image](https://github.com/user-attachments/assets/0a5b079a-6aa3-460f-b550-ff5acf0d4da3)
 
 
 
 
-## User Interface and Functionality
+## ユーザーインターフェースと機能
 
-This web application is built using Streamlit and offers the following main features:
-
-- **Data Upload Function**: Allows easy uploading of CIF files or CSV data.
+このWebアプリケーションはStreamlitで構築され、以下の主な機能を提供します：
+- **データアップロード機能**:デ：CIFファイルやCSVデータのアップロードが簡単に行えます。
   
-- **Model Training**: Users can specify datasets and set arbitrary parameters (such as the number of epochs and learning rate) to execute training.
+- **モデルの学習**: ユーザーは任意のデータセットを指定し、エポック数や学習率などのパラメータを設定してモデルを学習させることができます。
 - 
   <img width="600" alt="Image" src="https://github.com/user-attachments/assets/7aca24ca-94a6-4c60-abab-4dbc47898214" />
 
-- **Display of Training Results**: Users can view the results of the training process within the application.
-  The user interface tracks changes in MAE (Mean Absolute Error) during the model training process and analyzes the trends. It records the progression of MAE at each epoch and visualizes the changes in prediction accuracy as training progresses.
-
+- **学習結果の表示**: 学習プロセスの結果をアプリ内で確認できます。MAE（平均絶対誤差）の変化を追跡し、予測精度の推移を可視化します。
   <img width="459" alt="Image" src="https://github.com/user-attachments/assets/95e1be96-ebd0-4079-af0e-0daa3f269dee" />
 
-- **Prediction Function**: Uses the trained model to predict the properties of new materials and outputs the results as a downloadable CSV file. 
+- **予測機能**:学習済みモデルを用いて新しい材料の特性を予測し、その結果をCSV形式でダウンロード可能です。
 
-  Additionally, the prediction results table includes a **"Check Material"** link for each material. Clicking this link redirects users to the official **Materials Project** website, where they can verify actual material data and property values. 
+  さらに、予測結果表には各材料ごとに**「材料を確認」**リンクが用意されています。このリンクをクリックすると、ユーザーは公式の**Materials Project**ウェブサイトにリダイレクトされ、実際の材料データと物性値を確認できます。 
 
-  This feature allows users to easily compare and validate the model's prediction accuracy.
+  この機能により、ユーザーはモデルの予測精度を簡単に比較・検証できます。
   
 <img width="459" alt="Image" src="https://github.com/user-attachments/assets/229bbdb4-5fdb-4922-8ae6-005565b8a404" />
 
 
-## Example of Band Gap Prediction
+##  予測結果の例
 
-The following table shows an example of band gap prediction results, illustrating both the actual and predicted values for various materials:
-
+以下の表は、バンドギャップ予測結果の例を示しており、さまざまな材料の実際の値と予測値を両方示しています：
 | Material ID | Material Formula | Actual Band Gap (eV) | Predicted Band Gap (eV) |
 |-------------|------------------|----------------------|-------------------------|
 | mp-1183066  | Ac2ZnAu          | 0.00325              | 0                       |
@@ -44,9 +40,8 @@ The following table shows an example of band gap prediction results, illustratin
 | mp-7        | S                | 2.19                 | 2.17                    |
 | mp-2        | Pd               | 0.01                 | 0                       |
 
-## Example of Formation Energy Prediction
-
-The table below shows the predicted formation energies for selected materials.
+## 形成エネルギー予測の例
+以下の表は、選択された材料の予測された形成エネルギーを示しています。
 
 | Material ID | Material Formula | Actual Formation Energy (eV) | Predicted Formation Energy (eV) |
 |-------------|------------------|------------------------------|---------------------------------|
@@ -55,10 +50,9 @@ The table below shows the predicted formation energies for selected materials.
 | mp-861724   | Ac2AgIr          | -0.245                       | -0.413                          |
 
 
-## Example of Energy Above Hull Prediction
+## 船体上部のエネルギー予測の例
 
-This table illustrates the predicted stability of materials relative to the lowest possible energy configuration (the hull). A lower energy above hull indicates a more stable and likely formable material.
-
+この表は、材料の安定性を、最も低いエネルギー状態（船体）に対する相対的な安定性として示しています。船体よりも低いエネルギー状態は、より安定で成形可能な材料であることを示しています。
 | Material ID | Material Formula | Actual Energy Above Hull (eV) | Predicted Energy Above Hull (eV) |
 |-------------|------------------|-------------------------------|----------------------------------|
 | mp-1183063  | Ac2CdGe          | 0.007                         | 0                                |
@@ -67,17 +61,17 @@ This table illustrates the predicted stability of materials relative to the lowe
 
 
 
-## Technologies and Tools
+## 使用技術・ライブラリ
 
-This project leverages a variety of technologies and tools to ensure efficient and effective material property predictions using machine learning:
+このプロジェクトでは、機械学習を用いて材料特性を効率的かつ効果的に予測するために、さまざまな技術とツールを活用しています。
 
-- **Streamlit**: For creating an intuitive web interface that allows users to interact with the machine learning model directly.
-- **Python**: The primary programming language used for developing the CGCNN model and handling data manipulation.
-- **PyTorch**: Utilized for building and training the CGCNN model thanks to its flexibility and powerful GPU acceleration capabilities.
-- **Pandas**: Used for data handling and transformations, making it easier to manage and prepare data for model training.
-- **NumPy**: Essential for numerical computations, especially for manipulating large arrays and matrices of numeric data.
-- **Matplotlib** and **Seaborn**: For generating visualizations of the data and results, helping to interpret the performance and outcomes of the model.
-- **Materials Project API**: Integrated to fetch real-time data and properties of materials, enriching the dataset used for training and predictions.
+- **Streamlit**：直感的なWebインターフェースを作成し、ユーザーが機械学習モデルと直接対話できるようにします。  
+- **Python**：CGCNNモデルの開発およびデータ処理の主要なプログラミング言語です。  
+- **PyTorch**：柔軟性と強力なGPUサポートにより、CGCNNモデルの構築と学習に使用されています。  
+- **Pandas**：データの読み込みや整形などの処理を行い、学習に適した形式に変換します。  
+- **NumPy**：大規模な数値配列や行列の操作など、数値計算に欠かせないライブラリです。  
+- **Matplotlib** と **Seaborn**：学習結果や予測結果の可視化に使用し、モデル性能の分析と評価を支援します。  
+- **Materials Project API**：実在する材料のデータや特性をリアルタイムで取得するために統合されています。これにより、学習および予測データの質を向上させています。
 
-These tools and technologies were chosen to maximize efficiency and maintain high standards of accuracy and reliability in predicting material properties.
+これらの技術とツールを活用することで、材料特性の予測精度と信頼性を高い水準で維持しながら、効率的な処理を実現しています。
 
